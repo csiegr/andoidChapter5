@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rent a Car</string>
+    <string name="carImg">Image of Car</string>
+    <string name="btnRent">Rent Options</string>
+    <string name="rentOpts">Rent Options</string>
+    <string name="opt1">Hertz</string>
+    <string name="opt2">enterprise</string>
+    <string name="opt3">National</string>
+    <string name="opt4">dollar.</string>
+    <string name="opt5">Budget</string>
+    <string name="opt6">Alamo</string>
+
+
+
+
+
+</resources>
